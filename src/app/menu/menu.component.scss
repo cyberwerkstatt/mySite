@@ -3,6 +3,7 @@
 header {
     position: absolute;
     left: 0;
+    top:0;
     right: 0;
     height: 80px;
     z-index: 5;
@@ -26,6 +27,7 @@ header {
 
     img {
         height: 70px;
+        cursor: pointer;
     }
 }
 
